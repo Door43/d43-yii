@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yii:home|Door43 (yii)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yii|d43-yii repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yii/archive/master.zip|d43-yii.zip]]
+
+**Recent Changes**
+{{changes>ns = yii}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yii|Ethnologue data]]
+
